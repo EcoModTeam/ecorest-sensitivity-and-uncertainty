@@ -1,0 +1,348 @@
+﻿model,eqtn_type_final
+alewifeJuv,author-specified
+alewifeJuvAndSAEL,author-specified
+alewifeSAEL,limiting factor
+americanalligatorNontidal,author-specified
+americanalligatorTidal,author-specified
+americanblackduckWinteringEVegWetland,weighted arithmetic mean
+americanblackduckWinteringNCapeCod,author-specified
+americanblackduckWinteringSCapeCod,author-specified
+americancoot,author-specified
+americaneiderBreeding,author-specified
+americanoysterGulfofMexModifier,author-specified
+americanoysterGulfofMexTypical,author-specified
+americanshadEstu,limiting factor
+americanshadRiv,limiting factor
+americanwoodcockWinteringForestedDry,author-specified
+americanwoodcockWinteringForestedMoist,author-specified
+americanwoodcockWinteringForestedWet,author-specified
+americanwoodcockWinteringShrubDry,author-specified
+americanwoodcockWinteringShrubMoist,author-specified
+americanwoodcockWinteringShrubWet,author-specified
+arcticgrayling,limiting factor
+atlanticcroakerLATideLt0.5m,author-specified
+atlanticcroakerLATideMt0.5m,author-specified
+atlanticcroakerOtherTideLt0.5m,author-specified
+atlanticcroakerOtherTideMt0.5m,author-specified
+atlanticcroakerWetlandLATideLt0.5m,author-specified
+atlanticcroakerWetlandLATideMt0.5m,author-specified
+atlanticcroakerWetlandOtherTideLt0.5m,author-specified
+atlanticcroakerWetlandOtherTideMt0.5m,author-specified
+bairdssparrow,limiting factor
+baldeagleBreeding,author-specified
+barredowl,author-specified
+beaverLacAreaLt8ha,author-specified
+beaverLacAreaMtoe8ha,author-specified
+beaverPalu,author-specified
+beaverRiv,author-specified
+beltedkingfishLenticConstWave,author-specified
+beltedkingfishLenticNoConstWave,author-specified
+beltedkingfishLotic,author-specified
+bigmouthbuffaloLacNoSal,author-specified
+bigmouthbuffaloLacSal,author-specified
+bigmouthbuffaloRivNoSal,author-specified
+bigmouthbuffaloRivSal,author-specified
+blackbear,author-specified
+blackbelliedwhistlingduck,author-specified
+blackbrant,weighted geometric mean
+blackbullheadLac,author-specified
+blackbullheadRiv,author-specified
+blackcappedchickadeeFoodCanH,author-specified
+blackcappedchickadeeFoodCanVol,limiting factor
+blackcrappieLacNoSal,author-specified
+blackcrappieLacSal,author-specified
+blackcrappieRivNoSal,author-specified
+blackcrappieRivSal,author-specified
+blacknosedaceLac,author-specified
+blacknosedaceRiv,author-specified
+blackshoulderedkite,author-specified
+blacktailedprairiedog,geometric mean
+bluegillLac,author-specified
+bluegillRiv,author-specified
+bluegrouse,author-specified
+blueherringJuv,author-specified
+blueherringJuvAndSAEL,author-specified
+blueherringSAEL,limiting factor
+bluewingedtealBreeding,author-specified
+bobcatLt4ha,author-specified
+bobcatMtoe4ha,author-specified
+brewerssparrow,author-specified
+brooktroutLacAllLtoe15C,author-specified
+brooktroutLacAllMt15C,author-specified
+brooktroutRivAllLtoe15CLtoe5mEC,author-specified
+brooktroutRivAllLtoe15CMt5mEC,author-specified
+brooktroutRivAllMt15CLtoe5mEC,author-specified
+brooktroutRivAllMt15CMt5mEC,author-specified
+brownshrimpNGulfofMex,author-specified
+brownthrasher,multiplicative
+browntroutCompLtoe10C,author-specified
+browntroutCompMt10C,author-specified
+browntroutLimitLtoe10C,limiting factor
+browntroutLimitMt10C,limiting factor
+bullfrog,author-specified
+cactuswren,geometric mean
+canvasbackBreeding,author-specified
+channelcatfishLac,author-specified
+channelcatfishRiv,author-specified
+chinooksalmonComp5to10CSand,author-specified
+chinooksalmonComp5to10CSilt,author-specified
+chinooksalmonCompLtoe5CSand,author-specified
+chinooksalmonCompLtoe5CSilt,author-specified
+chinooksalmonCompMt10CSand,author-specified
+chinooksalmonCompMt10CSilt,author-specified
+chinooksalmonLimit5to10CSand,limiting factor
+chinooksalmonLimit5to10CSilt,limiting factor
+chinooksalmonLimitLtoe5CSand,limiting factor
+chinooksalmonLimitLtoe5CSilt,limiting factor
+chinooksalmonLimitMt10CSand,limiting factor
+chinooksalmonLimitMt10CSilt,limiting factor
+chumsalmonAlevin,limiting factor
+chumsalmonEyedEmb,limiting factor
+clapperrail,geometric mean
+cohosalmonSpringSummerSeaMig,limiting factor
+cohosalmonWinterRearing,limiting factor
+commoncarpLacNoSal,author-specified
+commoncarpLacSal,author-specified
+commoncarpRivNoSal,author-specified
+commoncarpRivSal,author-specified
+commonshinerLac,author-specified
+commonshinerRiv,author-specified
+creekchubRivLargerStrmDistMt5km,author-specified
+creekchubRivLargerStrmDistWithin5km,author-specified
+cutthroatLacGenLtoe15C,author-specified
+cutthroatLacGenMt15C,author-specified
+cutthroatLacLahontanLtoe15C,author-specified
+cutthroatLacLahontanMt15C,author-specified
+cutthroatRivGenLtoe15CLtoe5m,author-specified
+cutthroatRivGenLtoe15CMt5m,author-specified
+cutthroatRivGenMt15CLtoe5m,author-specified
+cutthroatRivGenMt15CMt5m,author-specified
+cutthroatRivLahontanLtoe15CLtoe5m,author-specified
+cutthroatRivLahontanLtoe15CMt5m,author-specified
+cutthroatRivLahontanMt15CLtoe5m,author-specified
+cutthroatRivLahontanMt15CMt5m,author-specified
+diamondbackterrapinNesting,geometric mean
+downywoodpecker,limiting factor
+easternbrownpelican,geometric mean
+easterncottontail,author-specified
+easternmeadowlark,author-specified
+easternwildturkeyCroplandHerb,multiplicative
+easternwildturkeyCroplandShrub,multiplicative
+easternwildturkeyForestHardDBH25.4cm,author-specified
+easternwildturkeyForestHardDBH27.9cm,author-specified
+easternwildturkeyForestHardDBH30.5cm,author-specified
+easternwildturkeyForestHardDBH33.0cm,author-specified
+easternwildturkeyForestHardDBH35.6cm,author-specified
+easternwildturkeyForestHardDBH38.1cm,author-specified
+easternwildturkeyHerb,author-specified
+easternwildturkeyShrub,author-specified
+englishsoleJuv,limiting factor
+englishsoleJuvImpactAlt,limiting factor
+fallfishLac,author-specified
+fallfishRivNoSpwn,author-specified
+fallfishRivSpwn,author-specified
+ferruginoushawkCrop,author-specified
+ferruginoushawkHerbAndShrub,author-specified
+fieldsparrow,author-specified
+fisherWinterCov,author-specified
+flatheadcatfishMacro,limiting factor
+flounderGulf,author-specified
+flounderSouthern,author-specified
+forstersternBreeding,author-specified
+foxsquirrel,author-specified
+gadwallBreeding,author-specified
+gizzardshadLacNoTributaries,author-specified
+gizzardshadLacSpwnTributaries,author-specified
+graypartridge,author-specified
+graysquirrel,author-specified
+greatblueheron,author-specified
+greategretFeeding,arithmetic mean
+greategretNestingIsland,author-specified
+greategretNestingNonisland,author-specified
+greaterprairiechickenHarvested,author-specified
+greaterprairiechickenUnharvested,limiting factor
+greatersandhillcraneLt200ha,author-specified
+greatersandhillcraneMtoe200ha,author-specified
+greaterwhitefrontedgooseWinteringWetland,arithmetic mean
+greensunfishLac,author-specified
+greensunfishRiv,author-specified
+greensunfishRivSal,author-specified
+gulfmenhadenEstuary,author-specified
+gulfmenhadenMarine,author-specified
+hairywoodpecker,author-specified
+hardclam,author-specified
+inlandsilversideNoZooplankton,author-specified
+inlandsilversideZooplankton,author-specified
+laketroutReproducingLakes,multiplicative
+laketroutReproducingRes,multiplicative
+laketroutStocked,multiplicative
+largemouthbassLacN,author-specified
+largemouthbassLacS,author-specified
+largemouthbassRivGrad,author-specified
+largemouthbassRivVel,author-specified
+larkbunting,author-specified
+laughinggull,author-specified
+leastternVegCovLt15OrMt25pct,author-specified
+leastternVegCovMtoe15OrLtoe25pct,author-specified
+lesserscaupBreeding,author-specified
+lesserscaupWintering,author-specified
+lessersnowgooseWintering,author-specified
+lewiswoodpeckerSummerDeciduousDesertic,author-specified
+lewiswoodpeckerSummerEvergreen,author-specified
+lewiswoodpeckerWinterCropland,multiplicative
+lewiswoodpeckerWinterNotEForC,author-specified
+lewiswoodpeckerYearRoundDeciduousDesertic,author-specified
+lewiswoodpeckerYearRoundEvergreen,author-specified
+littleneckclam,limiting factor
+longnosedaceLac,limiting factor
+longnosedaceRiv,limiting factor
+longnosesuckerLac,author-specified
+longnosesuckerRiv,author-specified
+mallardCroplandCorn,multiplicative
+mallardCroplandOtherCrops,multiplicative
+mallardCroplandSoy,multiplicative
+mallardForestedPaluWetlands,author-specified
+mallardNonforestedPaluLacRiv,author-specified
+marshwren,author-specified
+marten,author-specified
+minkPaluEmergHerb,author-specified
+minkPaluForestedOrShrubLess405ha,author-specified
+minkPaluForestedOrShrubMore405ha,author-specified
+minkRivLac,author-specified
+mooseLakeSupModelII,geometric mean
+mottledduckAny,author-specified
+mottledduckBrood,author-specified
+mottledduckNesting,author-specified
+muskellungeLargeLakeSpwnVegCurveA,author-specified
+muskellungeLargeLakeSpwnVegCurveB,author-specified
+muskellungeLargeLakeSpwnVegCurveC,author-specified
+muskellungeLargeLakeSpwnVegCurveD,author-specified
+muskellungeSmallLakeSpwnVegCurveA,author-specified
+muskellungeSmallLakeSpwnVegCurveB,author-specified
+muskellungeSmallLakeSpwnVegCurveC,author-specified
+muskellungeSmallLakeSpwnVegCurveD,author-specified
+muskratEstu,author-specified
+muskratHW,author-specified
+muskratRiv,author-specified
+northernbobwhiteCroplands,author-specified
+northernbobwhiteDbh25.4cm,author-specified
+northernbobwhiteDbh27.9cm,author-specified
+northernbobwhiteDbh30.5cm,author-specified
+northernbobwhiteDbh33.0cm,author-specified
+northernbobwhiteDbh35.6cm,author-specified
+northernbobwhiteDbh38.1cm,author-specified
+northernbobwhiteShrub,author-specified
+northernpikeLacVegA,limiting factor
+northernpikeLacVegB,limiting factor
+northernpikeLacVegC,limiting factor
+northernpikeLacVegD,limiting factor
+northernpikeRivVegA,limiting factor
+northernpikeRivVegB,limiting factor
+northernpikeRivVegC,limiting factor
+northernpikeRivVegD,limiting factor
+northernpintail,author-specified
+northernpintailWinteringGulfCoastPaluLacEstuLtoe5ppt,author-specified
+northernpintailWinteringGulfPaluLacEstuMt5ppt,author-specified
+ospreyLac,author-specified
+ospreyRiv,author-specified
+paddlefishAdSummerandWinterHab,weighted geometric mean
+paddlefishSpwnHab,geometric mean
+pileatedwoodpeckerE,author-specified
+pileatedwoodpeckerW,author-specified
+pinewarbler,author-specified
+pinksalmonLimit,limiting factor
+pinkshrimpEmergAndSeagrassVeg,author-specified
+pinkshrimpEmergVeg,author-specified
+pinkshrimpSeagrassVeg,author-specified
+plainssharptailedgrouse,limiting factor
+pronghorn,author-specified
+rainbowtroutLac,author-specified
+rainbowtroutRiv,author-specified
+redbreastsunfishLacN,limiting factor
+redbreastsunfishLacS,limiting factor
+redbreastsunfishPalu,limiting factor
+redbreastsunfishRiv,limiting factor
+reddrumLarvJuvEstuLittleSubmVeg,author-specified
+reddrumLarvJuvEstuSubmVeg,author-specified
+redearsunfishLac,author-specified
+redearsunfishRiv,author-specified
+redheadWinteringWtrAvailable,author-specified
+redheadWinteringWtrNotAvailable,author-specified
+redkingcrabJuv1to4,author-specified
+redkingcrabJuv4PlusandAd,author-specified
+redkingcrabLarv,weighted geometric mean
+redkingcrabYoungofYrJuv,author-specified
+redspottednewtAquatic150m,multiplicative
+redspottednewtAquaticEntire,multiplicative
+redspottednewtTerrestrial,author-specified
+redwingedblackbirdA,multiplicative
+redwingedblackbirdC,geometric mean
+roseatespoonbillIslandFuture,geometric mean
+roseatespoonbillIslandPresent,geometric mean
+roseatespoonbillMainlandFuture,weighted geometric mean
+roseatespoonbillMainlandPresent,weighted geometric mean
+ruffedgrouse,author-specified
+shortnosesturgeon,limiting factor
+sliderturtle,limiting factor
+sloughdarterLac,author-specified
+sloughdarterRiv,author-specified
+smallmouthbassLac,author-specified
+smallmouthbassRiv,author-specified
+smallmouthbuffaloLac,author-specified
+smallmouthbuffaloRiv,author-specified
+snappingturtle,author-specified
+snowshoehareForageBiomass,multiplicative
+snowshoehareForageVisual,multiplicative
+southernkingfishEstu,author-specified
+southernkingfishMarine,geometric mean
+southernredbackedvole,author-specified
+spotJuv,limiting factor
+spottedbassLac,limiting factor
+spottedbassRiv,limiting factor
+spottedowl,author-specified
+spottedseatrout,author-specified
+steelheadtroutRiv,author-specified
+stripedbassCoastal,author-specified
+stripedbassInlandLacAd,limiting factor
+stripedbassInlandLacJuv,limiting factor
+stripedbassInlandLacLarv,limiting factor
+stripedbassInlandRiv,limiting factor
+swamprabbitForestedWetland,multiplicative
+swamprabbitHerbWetland,author-specified
+swamprabbitShrubForestedWetland,author-specified
+veeryNonWetland,author-specified
+veeryWetland,author-specified
+walleyeLacSecchiLtoe3.4m,author-specified
+walleyeLacSecchiMt3.4m,author-specified
+walleyeRivSecchiLtoe3.4m,author-specified
+walleyeRivSecchiMt3.4m,author-specified
+warmouthLac,limiting factor
+warmouthRiv,limiting factor
+westerngrebe,author-specified
+whitebassLacCurveASubsIndex,author-specified
+whitebassLacCurveBSubsIndex,author-specified
+whitebassLacCurveCSubsIndex,author-specified
+whitebassLacTribCurveASubsIndex,author-specified
+whitebassLacTribCurveBSubsIndex,author-specified
+whitebassLacTribCurveCSubsIndex,author-specified
+whitebassRivCurveASubsIndex,author-specified
+whitebassRivCurveBSubsIndex,author-specified
+whitebassRivCurveCSubsIndex,author-specified
+whitecrappieLac,author-specified
+whitecrappieRiv,author-specified
+whiteibisIsland,geometric mean
+whiteibisWetland,geometric mean
+whiteshrimpNGulfofMex,author-specified
+whitesuckerLacSpwnInletStrm,author-specified
+whitesuckerLacSpwnLake,author-specified
+whitesuckerLacSpwnLakeDrawMtoe2m,author-specified
+whitesuckerLacSpwnLakeDrawMtoe5m,author-specified
+whitesuckerRiv,author-specified
+whitetaileddeerModelII,geometric mean
+williamsonssapsucker,author-specified
+woodduckBreeding,limiting factor
+woodduckYear,author-specified
+yellowheadedblackbird,author-specified
+yellowperchLac,limiting factor
+yellowperchRiv,limiting factor
+yellowwarbler,author-specified
