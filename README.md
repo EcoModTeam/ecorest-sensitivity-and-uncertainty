@@ -59,3 +59,8 @@ This is an updated version of HSImodels available in ecorest v2.0.0.
 
 ### equation_types.csv
 This is a csv file containing a list of model structures for the models in ecorest. Models could be categorized as: single value, limiting factor, multiplicative, arithmetic mean, geometric mean, weighted arithmetic mean, weighted geometric mean, or author-specified.
+
+## References
+Puy, A., Piano, S. L., Saltelli, A., & Levin, S. A. (2022). sensobol: An R package to compute variance-based sensitivity indices. Journal of Statistical Software, 102(5). https://doi.org/10.18637/jss.v102.i05
+
+Saltelli, A., Annoni, P., Azzini, I., Campolongo, F., Ratto, M., & Tarantola, S. (2010). Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index. Computer Physics Communications, 181(2), 259–270. 
