@@ -21,7 +21,8 @@ Each output file with a name beginning with 'model' contains the following infor
 - ind: (list) the results of the sensitivity analysis, including estimates, bias, standard error, and bootstrapped confidence intervals for the first (Si) and total (Ti) order indices of each input parameter for all model formats (original, arithmetic mean, geometric mean, limiting factor, multiplicative) 
 - HSI: (double) a vector containing all of the outputs (HSI scores) from every model evaluation during the sensitivity and uncertainty analysis for every model format (original, arithmetic mean, geometric mean, limiting factor, multiplicative) 
 - quantiles: (double) a vector containing the 1, 2.5, 5, 25, 50, 75, 95, 97.5, 99, and 100% quantiles obtained from the output HSI score distribution
-- dummy: (list) estimates of numerical approximation error, in the form of dummy parameter estimates, following the same format as results for every model format (original, arithmetic mean, geometric mean, limiting factor, multiplicative) 
+- dummy: (list) estimates of numerical approximation error, in the form of dummy parameter estimates, following the same format as results for every model format (original, arithmetic mean, geometric mean, limiting factor, multiplicative)
+- converged: (logical) a vector that reports whether the model's sensitivity indices converged for every model format (original, arithmetic mean, geometric mean, limiting factor, multiplicative). Convergence was determined based on whether the range of the 95% confidence interval for each sensitivity index was less than or equal to 0.05 (Sarrazin et al., 2016)
 
 ### SA_UA_stats.R
 
@@ -46,3 +47,5 @@ This is a csv file containing a list of model structures for the models in ecore
 Puy, A., Piano, S. L., Saltelli, A., & Levin, S. A. (2022). sensobol: An R package to compute variance-based sensitivity indices. Journal of Statistical Software, 102(5). https://doi.org/10.18637/jss.v102.i05
 
 Saltelli, A., Annoni, P., Azzini, I., Campolongo, F., Ratto, M., & Tarantola, S. (2010). Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index. Computer Physics Communications, 181(2), 259–270. 
+
+Sarrazin, F., Pianosi, F., & Wagener, T. (2016). Global sensitivity analysis of environmental models: Convergence and validation. Environmental Modelling & Software, 79, 135–152. https://doi.org/10.1016/j.envsoft.2016.02.005
